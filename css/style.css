@@ -9,6 +9,14 @@
 # General
 --------------------------------------------------------------*/
 
+.fulljustify {
+  word-spacing: 1cm;
+}
+
+#image {
+  width: 100%; 
+}
+
 body {
   background: #fff;
   color: #444;
